@@ -11,9 +11,10 @@ En este proyecto hemos practicado diferentes habilidades. La primera de ellas se
 Tambien para sustituir los intens en el caso de que haya muvhos widgets en la aplicacación hemos aprendidod a manejar los binding para enlazar los elementos entre si sin necesidad de lanzar un inten.
 Y por ultimo hemos comprendido la importancia de los colores y temas de una aplicación lo que indica la importancia de cada elemento de la misma.
 ### Screenshots
-![Captura del activity de inicio en ejecución en una maquina virtual de android.](https://github.com/alexcarne/SendMessageViewBinding/tree/master/gradle/Capturas/SendMessageActivity.png)
-![Captura de la activity donde se muestra el mensaje escrito en la activity principal](https://github.com/alexcarne/SendMessageViewBinding/tree/master/gradle/Capturas/ViewActivity.png)
-![Captura de la activity about us](https://github.com/alexcarne/SendMessageViewBinding/tree/master/gradle/Capturas/AboutActivity.png)
+![SendMessageActivity](https://github.com/alexcarne/SendMessageViewBinding/assets/131850789/89b62f0f-abbb-4cee-a53a-921e5f539713)
+![ViewActivity](https://github.com/alexcarne/SendMessageViewBinding/assets/131850789/ce79786f-d739-42f1-a57f-9d3810f00586)
+![AboutActivity](https://github.com/alexcarne/SendMessageViewBinding/assets/131850789/de75452c-1719-4b02-ba68-0d3d44024d47)
+
 ## Issues
 ***
 A la hora de crear un javadoc es necesario añadir una libreria  pero al añadirla da error el proyecto por eso esta comentada.
