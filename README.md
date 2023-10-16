@@ -4,16 +4,16 @@ Mi segundo  proyecto en Android studio en Java.
 1. [General Info](#general-info)
 2. [Issues](#issues)
 3. [Installation](#installation)
-4.[Version](#version)
+4. [Version](#version)
 ### General Info
 ***
 En este proyecto hemos practicado diferentes habilidades. La primera de ellas seria el manejo de los inten tanto implicitos como explicitos.
 Tambien para sustituir los intens en el caso de que haya muvhos widgets en la aplicacación hemos aprendidod a manejar los binding para enlazar los elementos entre si sin necesidad de lanzar un inten.
 Y por ultimo hemos comprendido la importancia de los colores y temas de una aplicación lo que indica la importancia de cada elemento de la misma.
 ### Screenshots
-![Captura del activity de inicio en ejecución en una maquina virtual de android.](https://github.com/alexcarne/SendMessageViewBinding/blob/master/Capturas/SendMessageActivity.png)
-![Captura de la activity donde se muestra el mensaje escrito en la activity principal](https://github.com/alexcarne/SendMessageViewBinding/blob/master/Capturas/ViewActivity.png)
-![Captura de la activity about us](https://github.com/alexcarne/SendMessageViewBinding/blob/master/Capturas/AboutActivity.png)
+![Captura del activity de inicio en ejecución en una maquina virtual de android.](https://github.com/alexcarne/SendMessageViewBinding/tree/master/gradle/Capturas/SendMessageActivity.png)
+![Captura de la activity donde se muestra el mensaje escrito en la activity principal](https://github.com/alexcarne/SendMessageViewBinding/tree/master/gradle/Capturas/ViewActivity.png)
+![Captura de la activity about us](https://github.com/alexcarne/SendMessageViewBinding/tree/master/gradle/Capturas/AboutActivity.png)
 ## Issues
 ***
 A la hora de crear un javadoc es necesario añadir una libreria  pero al añadirla da error el proyecto por eso esta comentada.
